@@ -21,14 +21,15 @@ If you are new to Tidy then this section is for you!
 
 ## Projects
 
-If you (and your colleagues) already have an working account then it is time to start your very first project! To do so, check out our documentation first and you will be ready to dive into:
+Before you learn how to manage projects, **first visit** [starting project](docs/user-documentation/project-docs/new_project.md) section.
+
+If you (and your colleagues) already have an working account and you started your first project then it is time to learn how to manage it! To do so, check out our documentation first and you will be ready to dive into:
 
 * Managing project [files](docs/user-documentation/project-docs/files.md)
 * Working with [calendar](docs/user-documentation/project-docs/calendar.md)
 * Using [project planner](docs/user-documentation/project-docs/planner.md)
 * Applying [todo](docs/user-documentation/project-docs/todo.md) actions
 * Disscussing project [issues](docs/user-documentation/project-docs/issues.md)
-
 * And more to come ;)
 
 ## Explore 
