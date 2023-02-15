@@ -16,11 +16,14 @@ Here is our **profile edit** form:
 
 ## Profile preview
 
-1. If you want to see how your profile looks for people visiting your website then you can look at your **"Profile preview"** page. You can access it by clicking on your icon in the top right corner: <img src='header.png' height='130'>
-which shows up drop down menu. Then click on the **"Profile"** button - it will transfer you to your profile preview:
+1. If you want to see how your profile looks for people visiting your website then you can look at your **"Profile preview"** page. You can access it by clicking on your icon in the top right corner: 
+
+    <img src='header.png' height='130'>
+
+    which shows up drop down menu. Then click on the **"Profile"** button - it will transfer you to your profile preview:
 
     <img src='profile preview.png' height='500'>
-    
+
     Here you can see all your personal information, aswell as your publications, attachements and ongoing project that you decided to share for viewing. Private projects are only visible to you:
 
     <img src='profile preview 2.png' height='380'> 
