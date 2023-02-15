@@ -4,7 +4,7 @@
 
 You are on the **main page** of the Tidy documentation. Here you can access information about:
 
-* How to set up the account?
+* How to set up the an account?
 * How to login to your account?
 * How to start your own project?
 * How to explore projects of other scientists/institutions?
@@ -21,7 +21,7 @@ If you are new to Tidy then this section is for you!
 
 ## Projects
 
-Before you learn how to manage projects, **first visit** [starting project](docs/user-documentation/project-docs/new_project.md) section.
+Before you learn how to manage projects, **visit first** [starting project](docs/user-documentation/project-docs/new_project.md) section.
 
 If you (and your colleagues) already have an working account and you started your first project then it is time to learn how to manage it! To do so, check out our documentation first and you will be ready to dive into:
 
