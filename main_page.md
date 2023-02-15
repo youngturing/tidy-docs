@@ -35,3 +35,16 @@ If you (and your colleagues) already have an working account and you started you
 ## Explore 
 
 So you have your first started - that's really good! Now you can look at other projects using our [Explore](docs/user-documentation/explore-docs/explore.md) subpage. It enables you to exchange information with scientists from different institutions, learn about their work and share your own achievements. 
+
+
+## Getting help
+
+Having trouble? We’d like to help!
+
+* Try the [FAQ](docs/user-documentation/user-docs/faq.md) – it’s got answers to many common questions.
+
+## Contact
+
+If you'd like to reach us then here is our contact information:
+
+* Email Address: contact@tidy.com
