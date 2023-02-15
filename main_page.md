@@ -4,12 +4,12 @@
 
 You are on the **main page** of the Tidy documentation. Here you can access information about:
 
-* how to set up the account?
-* how to login to your account?
-* how to start your own project?
-* how to explore projects of other scientists/institutions?
-* how to manage your project?
-* and many, many more...
+* How to set up the account?
+* How to login to your account?
+* How to start your own project?
+* How to explore projects of other scientists/institutions?
+* How to manage your project?
+* And many more...
 
 ## First steps
 
