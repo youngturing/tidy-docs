@@ -4,7 +4,8 @@
 
 1. If you are logging in to **Tidy** for the first time you will be asked for filling up information about you. You can obviously skip this step but if you want to attract attention of other scientists/institution we highly recommend doing it!
 Here is our **profile edit** form:
-<img src='profile edit.png' height='550'>
+
+    <img src='profile edit.png' height='550'>
 
 2. By clicking icon: <img src='upload-solid 1.png' height='20'> Next to the **"Upload new photo"** you can upload your profile photo. Otherwise it will be default as in example above. Same icon appears in the section **"Attachements"** - feel free to upload your CV, achievements etc. by clicking it and selecting appropriate file from your computer. 
 
