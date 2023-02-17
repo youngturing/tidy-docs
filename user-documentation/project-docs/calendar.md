@@ -4,7 +4,7 @@
 
 You can access your calendar by simply clicking on **"Calendar"** button in drop down menu:
 
-<img src='../../img/header.png' height=130>
+<img src='../../img/header.png' height=200>
 
 This will transfer you to the page with your calendar, with events marked on it:
 
