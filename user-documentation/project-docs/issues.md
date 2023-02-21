@@ -20,7 +20,7 @@ This will transfer you to the issues view:
 
 1. Click on the **"New issue"** button
 2. This will transfer you to the new issue view:
-<img src='../../img/new issue.png' height=280>
+    <img src='../../img/new issue.png' height=280>
 3. Add title by click on the **"Title"** field
 4. Add descirpition by clicking on the text field below the **"Description"** label
 5. Add labels to your issue by dropping down menu near the **"Label"** field
