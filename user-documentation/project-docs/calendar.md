@@ -18,8 +18,10 @@ This will transfer you to the page with your calendar, with events marked on it:
 
 ## Your calendar events
 
-1. I you want to add new event, click on the **calendar in the selected time** - this will result in new dialog appearing on the screen:  
+1. I you want to add new event, click on the **calendar in the selected time** - this will result in new dialog appearing on the screen:
+
 <img src='../../img/event.png' height=120>
+
 2. Add title to your event by click on **"New"** 
 3. Change priority level of your event by clicking **"Priority"**
 4. Change label of your event by clicking **"Label"**
@@ -29,9 +31,13 @@ This will transfer you to the page with your calendar, with events marked on it:
 ## Adding labels
 
 1. If you want to add new label to your inventory click on **"Add new label"** below the list of predifined labels:
+
 <img src='../../img/labels.png' height=100>
-2. This will pop up new dialog where you can define your own label:  
+
+2. This will pop up new dialog where you can define your own label:
+
 <img src='../../img/new label .png' height=100>
+
 3. Add title to your label by clicking in the **"Label title"** field
 4. Add description - an information of what your label actually means
 5. Add unique color to your label by dropping the **"Color"** menu and choosing the right color from palette. 

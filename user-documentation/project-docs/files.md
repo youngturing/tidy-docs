@@ -27,6 +27,8 @@ This will transfer you to the files view:
 
 1. Click on the button to the right side of added file
 2. After this the confirmation dialog will pop up:            
+
 <img src='../../img/Delete.png' height=100>
+
 3. Click on **"Yes"** if you want to delete selected file from your inventory 
 4. Click **"Cancel"** if you want to cease the operation
