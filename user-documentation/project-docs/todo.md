@@ -2,7 +2,7 @@
 
 ## Accessing todo view
 
-If you want to access the planner view click on the **"Planner"** option on drop down menu:
+If you want to access the planner view click on the **"Todo"** option on drop down menu:
 
 <img src='../../img/header.png' height=250>
 
