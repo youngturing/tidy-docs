@@ -1,6 +1,6 @@
 name: Tidy documentation
 title: null
-theme: minima
+theme: cayman
 titles_from_headings:
   enabled:     true
   strip_title: true
