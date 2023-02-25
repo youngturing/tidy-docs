@@ -41,4 +41,3 @@ This will transfer you to the Explore page:
 7. <img src='../../img/dymek.png' height=16> icon shows number of comments added to this project. After clicking on it you can expand the list of comments, respond to them and add your own comment:
 
 <img src='../../img/comments.png' height=180>
-
