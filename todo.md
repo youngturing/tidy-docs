@@ -4,11 +4,11 @@
 
 If you want to access the planner view click on the **"Todo"** option on drop down menu:
 
-<img src='../img/header.png' height=250>
+<img src='./img/header.png' height=250>
 
 This will transfer you to the planner view:
 
-<img src='../img/todo.png' height=400>
+<img src='./img/todo.png' height=400>
 
 ## Navigation on todo page
 
@@ -25,6 +25,6 @@ You can create a new todo in two ways:
 1. You can add new todo simply by pinging member of your project in issue, preceding him/her name with **@** sign. Ths will automatically create new todo card with the content of comment/issue descirpition. 
 2. You can also click on the **"Add"** button. This will create empty card with information to fill in:
 
-<img src='../img/ToDo card.png' height=100>
+<img src='./img/ToDo card.png' height=100>
 
 Now you have to assign this task to a new person, sepcify the description and add deadline. 

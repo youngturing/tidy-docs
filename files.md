@@ -4,11 +4,11 @@
 
 You can access files view by clicking the **"Files"** option at the drop down menu:
 
-<img src='../img/header.png' height=200>
+<img src='./img/header.png' height=200>
 
 This will transfer you to the files view:
 
-<img src='../img/files.png' height=300>
+<img src='./img/files.png' height=300>
 
 ## Adding files
 
@@ -28,7 +28,7 @@ This will transfer you to the files view:
 1. Click on the button to the right side of added file
 2. After this the confirmation dialog will pop up:            
 
-<img src='../img/Delete.png' height=100>
+<img src='./img/Delete.png' height=100>
 
 3. Click on **"Yes"** if you want to delete selected file from your inventory 
 4. Click **"Cancel"** if you want to cease the operation
