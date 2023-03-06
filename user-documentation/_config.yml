@@ -2,17 +2,17 @@ name: Tidy documentation
 title: null
 theme: minima
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true 
 header_pages:
-  - user-documentation/explore.md
-  - user-documentation/login.md
-  - user-documentation/registration.md
-  - user-documentation/profile.md
-  - user-documentation/project.md
-  - user-documentation/planner.md
-  - user-documentation/todo.md
-  - user-documentation/issues.md
-  - user-documentation/files.md
-  - user-documentation/calendar.md
+  - tidy-docs/user-documentation/explore.md
+  - tidy-docs/user-documentation/login.md
+  - tidy-docs/user-documentation/registration.md
+  - tidy-docs/user-documentation/profile.md
+  - tidy-docs/user-documentation/project.md
+  - tidy-docs/user-documentation/planner.md
+  - tidy-docs/user-documentation/todo.md
+  - tidy-docs/user-documentation/issues.md
+  - tidy-docs/user-documentation/files.md
+  - tidy-docs/user-documentation/calendar.md
