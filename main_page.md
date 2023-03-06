@@ -15,33 +15,33 @@ You are on the **main page** of the Tidy documentation. Here you can access info
 
 If you are new to Tidy then this section is for you!
 
-* [Register](registration.md) your account
-* [Login](user-docs/login.md) to your account
-* [Profile](profile.md) - edit information about you
+* [Register](registration) your account
+* [Login](login) to your account
+* [Profile](profile) - edit information about you
 
 ## Projects
 
-Before you learn how to manage projects, **visit first** [starting project](project.md) section.
+Before you learn how to manage projects, **visit first** [starting project](project) section.
 
 If you (and your colleagues) already have an working account and you started your first project then it is time to learn how to manage it! To do so, check out our documentation first and you will be ready to dive into:
 
-* Managing project [files](files.md)
-* Working with [calendar](calendar.md)
-* Using [project planner](planner.md)
-* Applying [todo](todo.md) actions
-* Disscussing project [issues](issues.md)
+* Managing project [files](files)
+* Working with [calendar](calendar)
+* Using [project planner](planner)
+* Applying [todo](todo) actions
+* Disscussing project [issues](issues)
 * And more to come ;)
 
 ## Explore 
 
-So you have your first started - that's really good! Now you can look at other projects using our [Explore](explore.md) subpage. It enables you to exchange information with scientists from different institutions, learn about their work and share your own achievements. 
+So you have your first started - that's really good! Now you can look at other projects using our [Explore](explore) subpage. It enables you to exchange information with scientists from different institutions, learn about their work and share your own achievements. 
 
 
 ## Getting help
 
 Having trouble? We’d like to help!
 
-* Try the [FAQ](faq.md) – it’s got answers to many common questions.
+* Try the [FAQ](faq) – it’s got answers to many common questions.
 
 ## Contact
 
