@@ -6,6 +6,7 @@ titles_from_headings:
   strip_title: true
   collections: true 
 header_pages:
+  - home.md
   - explore.md
   - login.md
   - registration.md
