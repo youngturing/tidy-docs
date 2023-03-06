@@ -6,13 +6,13 @@ titles_from_headings:
   strip_title: true
   collections: true 
 header_pages:
-  - tidy-docs/user-documentation/explore.md
-  - tidy-docs/user-documentation/login.md
-  - tidy-docs/user-documentation/registration.md
-  - tidy-docs/user-documentation/profile.md
-  - tidy-docs/user-documentation/project.md
-  - tidy-docs/user-documentation/planner.md
-  - tidy-docs/user-documentation/todo.md
-  - tidy-docs/user-documentation/issues.md
-  - tidy-docs/user-documentation/files.md
-  - tidy-docs/user-documentation/calendar.md
+  - explore.md
+  - login.md
+  - registration.md
+  - profile.md
+  - project.md
+  - planner.md
+  - todo.md
+  - issues.md
+  - files.md
+  - calendar.md
