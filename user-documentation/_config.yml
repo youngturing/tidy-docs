@@ -6,13 +6,13 @@ titles_from_headings:
   strip_title: true
   collections: true 
 header_pages:
-  - explore.md
-  - login.md
-  - registration.md
-  - profile.md
-  - project.md
-  - planner.md
-  - todo.md
-  - issues.md
-  - files.md
-  - calendar.md
+  - user-documentation/explore.md
+  - user-documentation/login.md
+  - user-documentation/registration.md
+  - user-documentation/profile.md
+  - user-documentation/project.md
+  - user-documentation/planner.md
+  - user-documentation/todo.md
+  - user-documentation/issues.md
+  - user-documentation/files.md
+  - user-documentation/calendar.md
